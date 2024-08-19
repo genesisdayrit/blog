@@ -1,4 +1,4 @@
-site_name: MkDocs YouTube Tutorial
+site_name: genesis dayrit's blog
 site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
@@ -18,14 +18,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: black
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: black
+      accent: purple
 
 plugins:
 #   - social
@@ -58,4 +58,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2024 <a href="https://github.com/genesisdayrit"  target="_blank" rel="noopener">Genesis Dayrit</a>
