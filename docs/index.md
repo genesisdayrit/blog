@@ -1,17 +1,15 @@
-# Yoooooo
+# About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my blog. Here I will be writing about tech, culture, and life. 
 
-## Commands
+If you'd like to get updates on new content, you can subcribe below.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What I'm working on
 
-## Project layout
+Currently, I am a fractional head of data / ai engineer / generalist consultant for tech companies. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+My core skillset is in data engineering, however, I have been developing more full-stack skills and AI skills over the past year.
+
+Feel free to reach out about opportunities to collaborate at genesis@data-lab.co.
+
+You can also visit my consulting website: data-lab.co
