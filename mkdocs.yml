@@ -13,19 +13,19 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: black
-      accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to dark mode    
       primary: black
       accent: purple
-
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to light mode
+      primary: black
+      accent: purple
+  
 plugins:
 #   - social
   - search
