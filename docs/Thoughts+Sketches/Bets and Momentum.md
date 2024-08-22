@@ -1,5 +1,5 @@
 (Draft)
-I've been indie hacking for a year and some change now, and like-many, I noticed that I've struggled with dreaded [[shiny object syndrome]]. 
+I've been indie hacking for a year and some change now, and like-many, I noticed that I've struggled with dreaded shiny object syndrome.
 
 I've still yet to make my first $1 outside of running my data consulting service, despite having some decent success with that.
 
@@ -13,7 +13,7 @@ If you remember any of your physics courses, you might remember the formula mome
 
 In other words, if you throw your weight into an idea or problem, with enough speed and direction. You will have greater momentum. 
 
-While this is good to know, the truth is that there are natural dissipative forces of time and attention that are always eating at momentum if you are not actively adding new momentum to your projects or you are getting distracted by newer endeavors
+While this is good to know, the truth is that there are natural dissipative forces of time and attention that are always eating at momentum if you are not actively adding new momentum to your projects or you are getting distracted by newer endeavors.
 
 So sometimes we run out of time, or we dissipate attention onto other things. This is not necessarily good or bad, but something to be an aware of as we decide what to work on. 
 
@@ -21,7 +21,7 @@ When something is in motion already, it can be good to continue to place bets (m
 
 But just know that all of your learnings from actions are accumulating along the way and add mass to your corpus of experiences, regardless of the direction.
 
-So if you keep placing all of your bets in a general direction, it will harder for you to lose momentum unless you just actively choose to stop or change directions. 
+So if you keep placing all of your bets in a general direction, it will harder for you to lose momentum unless you just actively choose to stop or change ways. 
 
 Right now, while I haven't had a major success yet launching my own software products. It almost feels inevitable that success of some form is on its way because of the momentum of skills and experiences that keep on stacking. 
 
