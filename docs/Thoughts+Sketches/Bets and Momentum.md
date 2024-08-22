@@ -23,8 +23,8 @@ But just know that all of your learnings from actions are accumulating along the
 
 So if you keep placing all of your bets in a general direction, it will harder for you to lose momentum unless you just actively choose to stop or change directions. 
 
-Right now, while I haven't had a major success yet launching my own software products. I almost feels inevitable that success of some form is on its way because of the momentum of skills and experiences that keep on stacking. 
+Right now, while I haven't had a major success yet launching my own software products. It almost feels inevitable that success of some form is on its way because of the momentum of skills and experiences that keep on stacking. 
 
 So let your actions compound into mass, and keep slightly readjusting the crosshairs along the way towards an area or direction that you'd like to compound in.
 
-Protect your momentum by continuing to learn and then place your bets accordingly.
+Protect your momentum by continuing to learn, and then place your bets accordingly.
