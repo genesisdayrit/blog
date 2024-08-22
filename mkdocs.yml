@@ -30,14 +30,17 @@ plugins:
 #   - social
   - search
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github-alt
-#       link: https://github.com/james-willett
-#     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/TheJamesWillett
-#     - icon: fontawesome/brands/linkedin
-#       link: https://www.linkedin.com/in/willettjames/
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/genesisdayrit
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/_genesisdayrit
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/genesisdayrit/
+  analytics:
+    provider: google
+    property: G-389857543
 
 markdown_extensions:
   - pymdownx.highlight:
