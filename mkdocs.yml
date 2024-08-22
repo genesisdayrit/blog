@@ -40,7 +40,7 @@ extra:
       link: https://www.linkedin.com/in/genesisdayrit/
   analytics:
     provider: google
-    property: G-389857543
+    property: G-VB988S1KF3
 
 markdown_extensions:
   - pymdownx.highlight:
