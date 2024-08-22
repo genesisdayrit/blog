@@ -1,3 +1,4 @@
+(Draft)
 I've been indie hacking for a year and some change now, and like-many, I noticed that I've struggled with dreaded [[shiny object syndrome]]. 
 
 I've still yet to make my first $1 outside of running my data consulting service, despite having some decent success with that.
